@@ -13,7 +13,7 @@ export default class Home extends React.Component{
     }
 
     componentDidMount(){
-        console.log("Inside Home ComponentDidMount");
+        console.log("Home ComponentDidMount");
     }
 
     render(){
